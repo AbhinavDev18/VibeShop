@@ -1,0 +1,16 @@
+node_modules/
+.env
+.DS_Store
+dist/
+
+# Frontend exclusions
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+
+# Backend exclusions
+backend/node_modules/
+backend/.env
+
+# Gemini/IDE exclusions
+.gemini/
